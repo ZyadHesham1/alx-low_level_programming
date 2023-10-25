@@ -1,8 +1,11 @@
 #include "main.h"
 /**
   * _pow_recursion - function name
+  * 
   * @x: parameter 1
+  * 
   * @y: parameter 2
+  *
   * Return: value of a given number passed to the function
   */
 
